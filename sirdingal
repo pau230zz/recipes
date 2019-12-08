@@ -61,7 +61,46 @@
 "3 cups brown sugar",
 "1 teaspoon vanilla extract"]
 
+},
+
+{
+	"name": "Buko-Mais con Yelo",
+	"preparation": "5 mins",
+	"cookingTime": "2 mins",
+	"yield": 2,
+	"cookingMethod": "Assemble",
+	"ingredients":["1/2 cup condensed milk",
+"1/2 cup evaporated milk",
+"1/2 cup corn kernels, divided",
+"1 cup crushed ice",
+"1/2 cup buko (coconut), (use buko meat), sliced into squares",
+"1 teaspoon pinipig (puffed rice), for topping (optional)",
+"sugar, to taste"]
+
+},
+
+{
+	"name": "Pancit Bihon",
+	"preparation": "10 mins",
+	"cookingTime": "15 mins",
+	"yield": 6,
+	"cookingMethod": "Stir-fry",
+	"ingredients":["250 grams cooked rice vermicelli noodles (bihon)",
+"vegetable oil, for cooking",
+"2 fillets boneless chicken thigh fillets, sliced thinly",
+"200 grams shrimp, large, peeled and deveined",
+"1 chinese chorizo, sliced thinly on the bias",
+"1/2 cup fish balls, assorted, sliced into thin rounds",
+"1 onion, peeled and chopped",
+"2 to 3 cloves garlic, peeled and minced",
+"2 large carrots, peeled and sliced thinly on the bias",
+"1 small cabbage, shredded",
+"1 1/2 to 2 cups chicken broth",
+"1/4 cup soy sauce",
+"2 tablespoons green onions, chopped"]
+
 }
+
 ]
 
 
